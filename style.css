@@ -1,0 +1,92 @@
+/* Example styling of a h1 element */
+body {
+  background-color: #EAFADA;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: #088A29;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h1 {
+  color: #2EFE64;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+
+}
+
+p {
+
+
+
+
+}
+
+
+.output {
+    background: #eee;
+}
+
+.fit-picture {
+    width: 30%;
+    height: auto;
+
+}
+
+.example {
+  text-align: center;
+
+}
+
+.texten {
+  margin-bottom: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: justify;
+
+}
+
+.links {
+  margin-left: 15%;
+  margin-right: 20%;
+
+}
+
+
+.katten {
+text-align: right;
+width: 30%;
+height: auto;
+margin-left: 50%
+
+}
+
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: #265301;
+}
+
+a:visited {
+  color: #437A16;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: #BAE498;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #CDFEAA;
+}
+
+a:active {
+  background: #265301;
+  color: #CDFEAA;
+}
